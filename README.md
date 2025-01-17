@@ -2,9 +2,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beccahaolic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beccahaolic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="right">
+  <img width="80%" src="https://i.pinimg.com/originals/a4/e7/89/a4e789bafae2b5a2ef808f3090847e52.gif"  />
 </div>
 
 ###
@@ -19,9 +18,7 @@
 
 ###
 
-<div align="right">
-  <img height="400" src="https://i.pinimg.com/originals/a4/e7/89/a4e789bafae2b5a2ef808f3090847e52.gif"  />
-</div>
+
 
 ###
 
